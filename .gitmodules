@@ -1,0 +1,3 @@
+[submodule "swapper/lib/forge-std"]
+	path = swapper/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
